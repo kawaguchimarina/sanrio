@@ -1,5 +1,5 @@
 body{
-	background-color:#dda0dd;
+	background-color:#ffb6c1;
 	color:#000;
 	font-family:"メイリオ","Hiragino Kaku Gothic Pro",sans-serif;
 	text-align:center;
@@ -32,7 +32,7 @@ h3{
 
 footer{
 	text-align:center;
-	border-top:5px solid #ffff;
+	border-top:5px solid #00ffff;
 }
 article{
 	position:relative;
